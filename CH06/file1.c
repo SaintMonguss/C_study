@@ -1,11 +1,14 @@
-#include <stdio.h>
 #include "file.h"
 
-void myName();
+int salary = 3500000;
 
 int main()
 {
 	myName();
+	myAge();
+	mySal();
+
+	printf("실수령액 : %d\n", salary);
 
 	return 0;
 }
