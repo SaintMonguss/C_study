@@ -18,7 +18,7 @@ int main()
 	for(int i = 0 ; i < 5 ; i ++)
 		for (int j = 0; j < 5; j++)
 		{
-			if (score[i][5] < score[j][5])
+			if (score[i][4] < score[j][4])
 				score[i][6]++;
 		}
 

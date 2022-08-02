@@ -30,5 +30,23 @@
     <ClCompile Include="array3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scoreArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
